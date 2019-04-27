@@ -32,7 +32,8 @@ P
 
 R
 
-S slanto
+S 
+slanto
 
 T
 thaarad
